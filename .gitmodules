@@ -28,3 +28,6 @@
 [submodule "modules/email"]
 	path = modules/email
 	url = http://github.com/banks/kohana-email.git
+[submodule "modules/log"]
+	path = modules/log
+	url = git://github.com/lzyy/kohana-log.git
