@@ -22,3 +22,9 @@
 [submodule "modules/cache"]
 	path = modules/cache
 	url = git://github.com/kohana/cache.git
+[submodule "modules/dispatcher"]
+	path = modules/dispatcher
+	url = http://github.com/BRMatt/Kohana-Dispatcher.git
+[submodule "modules/email"]
+	path = modules/email
+	url = http://github.com/banks/kohana-email.git
